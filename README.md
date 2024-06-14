@@ -1,7 +1,8 @@
 # Globoticket Platform Engineering Team Wiki
 
 ## 🧑‍✈️ Enable Copilot Voucher
-- [Enable-CopilotVoucher](Enable-CopilotVoucher)
+- [Enable-CopilotVoucher](Enable-CopilotVoucher.md)
+- [Enable-CopilotVoucher(繁體中文)](Enable-CopilotVoucher.md)
 
 ## 🧠 Braindumps
 - [Challenge1-Braindump](Challenge1-Braindump.md)
